@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80ec7fe7-3dea-40d5-bfe8-d007fb010767" name="Default Changelist" comment="" />
+    <list default="true" id="80ec7fe7-3dea-40d5-bfe8-d007fb010767" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Signin.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Signin.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XUFDyFhlCqddYwichkc8QVTYEH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -41,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581092650508</updated>
       <workItem from="1581092659237" duration="28050000" />
-      <workItem from="1581167750518" duration="2561000" />
+      <workItem from="1581167750518" duration="3789000" />
     </task>
     <servers />
   </component>

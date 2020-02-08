@@ -12,7 +12,7 @@ class NormalLoginForm extends Component {
             if (!err) {
                 // console.log('Received values of form: ', values);
                 axios
-                    .post('http://127.0.0.1:8000/rest-auth/login ', {
+                    .post('http://127.0.0.1:8000/rest-authlogin/', {
                         username: values.username,
                         password: values.password
                     })

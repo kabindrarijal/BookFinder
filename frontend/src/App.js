@@ -5,6 +5,7 @@ import About from './components/About';
 import AddBooks from './components/AddBook';
 import Signin from './components/Signin';
 import Signup from './components/Signup';
+import Logout from "./components/Logout";
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
@@ -21,6 +22,7 @@ class App extends Component {
                     <Route path="/about" component={About}/>
                     <Route path="/signin" component={Signin}/>
                     <Route path="/signup" component={Signup}/>
+                    <Route path="/logout" component={Logout}/>
                     <Route path="/addbooks" component={AddBooks}/>
                 </Switch>                            
             </div>

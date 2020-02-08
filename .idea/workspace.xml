@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80ec7fe7-3dea-40d5-bfe8-d007fb010767" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/Nav.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/backup/BookFinder-master" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581092650508</updated>
       <workItem from="1581092659237" duration="28050000" />
-      <workItem from="1581167750518" duration="3789000" />
+      <workItem from="1581167750518" duration="4616000" />
     </task>
     <servers />
   </component>
@@ -60,6 +64,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1581146078409" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1581174651715">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581174651715" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1581157984407">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
